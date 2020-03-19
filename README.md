@@ -1,5 +1,6 @@
 ## Overview
-The main file for grading is solution.ipynb file in the root folder. <br>
+Solution to named-entity-recognition problem, using Glove word embeddings with BiLSTM model implemented in pytorch. 
+The main file is solution.ipynb file in the root folder. <br>
 The html version of this file can be found in the "html" folder<br>
 All of the supporting code is extracted to logically separated .py files inside "scripts" folder<br>
 
